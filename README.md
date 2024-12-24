@@ -507,7 +507,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Rust.*
 
 * [sivertjoe/Advent-of-Code](https://github.com/sivertjoe/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--23-brightgreen)
-* [connorslade/advent-of-code](https://github.com/connorslade/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--23-brightgreen)
+* [connorslade/advent-of-code](https://github.com/connorslade/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--24-brightgreen)
 * [ndunnett/aoc](https://github.com/ndunnett/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--23-brightgreen)
 
 #### Smalltalk
@@ -518,7 +518,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Scala.*
 
-* [sim642/adventofcode](https://github.com/sim642/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--23-brightgreen)
+* [sim642/adventofcode](https://github.com/sim642/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--24-brightgreen)
 
 #### Scheme
 
